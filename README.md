@@ -36,8 +36,5 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-![snake gif](https://raw.githubusercontent.com/FAKE-SURYA/FAKE-SURYA/output/github-contribution-grid-snake.svg)
-
 
 
