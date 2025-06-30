@@ -1,19 +1,15 @@
-name: Generate Snake Contribution Graph
+name: Generate Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo content
-        uses: actions/checkout@v3
-
-      - name: Generate the Snake SVG
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: FAKE-SURYA
@@ -21,7 +17,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push the SVG to output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
