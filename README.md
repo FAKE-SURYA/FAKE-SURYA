@@ -35,6 +35,7 @@
 - Email: **suryapratapsingh7054039@gmail.com**
 
 ---
+![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
 
 
 
