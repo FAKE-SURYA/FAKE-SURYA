@@ -4,7 +4,7 @@
 ---
 
 ### 📌 About Me
-- 🎓 B.Tech CSE, 6th Semester @ Naraina College of Engineering & Technology
+- 🎓 B.Tech CSE, @ Naraina College of Engineering & Technology
 - 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development
 - 💻 Interning at CodSoft – Python Programming Internship
 - ♟️ Chess player | 🎧 Rap music fan | 🏋️ Passionate about fitness
