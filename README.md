@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Surya Pratap Singh</h1>
-<h3 align="center">Computer Science Undergraduate | Python Developer | Tech Enthusiast</h3>
+<h3 align="center"> Computer Science Undergraduate | Python Developer | Tech Enthusiast </h3>
 
 ---
 
