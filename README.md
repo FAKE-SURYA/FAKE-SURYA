@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Surya Pratap Singh</h1>
 <h3 align="center"> Computer Science Undergraduate | Python Developer | Tech Enthusiast </h3>
-
+<img align="right" alt="Coding" width="400" src=https://dribbble.com/shots/25865811-Programmer-at-work?utm_source=Clipboard_Shot&utm_campaign=ismini&utm_content=Programmer%20at%20work&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=ismini&utm_content=Programmer%20at%20work&utm_medium=Social_Share>
 ---
 
 ### 📌 About Me
@@ -27,6 +27,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FAKE-SURYA&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FAKE-SURYA&theme=tokyonight" />
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact" alt="FAKE-SURYA" /></p>
+
 
 ---
 
@@ -35,6 +37,7 @@
 - Email: **suryapratapsingh7054039@gmail.com**
 
 ---
+
 ![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
 
 
