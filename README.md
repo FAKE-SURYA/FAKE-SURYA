@@ -1,4 +1,4 @@
-8[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center"> Hi, I'm Surya Pratap Singh </h1>
 <h3 align="center"> Computer Science Undergrad | Python Developer | Tech Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -35,12 +35,12 @@
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://x.com/SuryaSi58597776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/surya-pratap-singh-11490332a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/profile/suryabhaisince21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
-</p>
+  ### 📫 Connect with Me
+   <p align="left">
+   <a href="https://x.com/SuryaSi58597776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/twitter.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/surya-pratap-singh-11490332a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/suryabhaisince21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
+  </p>
 
 ---
 
