@@ -36,11 +36,11 @@
 ---
 
   ### 📫 Connect with Me
-   <p align="left">
-   <a href="https://x.com/SuryaSi58597776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/twitter.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://x.com/SuryaSi58597776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/twitter.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
    <a href="https://www.linkedin.com/in/surya-pratap-singh-11490332a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/suryabhaisince21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="FAKE-SURYA" height="30" width="40" /></a>
-  </p>
+</p>
 
 ---
 
