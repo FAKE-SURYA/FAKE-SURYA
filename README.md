@@ -5,7 +5,7 @@
 ---
 
 ### 📌 About Me
-- 🎓 B.Tech CSE, @ Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+- 🎓 B.Tech CSE, @ Dr. A.P.J. Abdul Kalam Technical University (AKTU).
 - 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development
 - 💻 Interning at CodSoft – Python Programming Internship
 - ♟️ Chess Nerd | 🎧 Rap & Poetry | 🏋️ Passionate about fitness
