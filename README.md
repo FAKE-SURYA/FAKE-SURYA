@@ -44,7 +44,7 @@
 
 ---
 
-![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
 
 
 
