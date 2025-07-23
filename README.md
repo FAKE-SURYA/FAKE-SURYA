@@ -48,6 +48,11 @@
 ---
 
 
+## 🎧 Listen with me
+
+[![Apple Music](https://img.shields.io/badge/Listen_on-Apple_Music-black?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/in/album/what-did-i-miss-single/1824600278)
+
+
  ![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
 
 
