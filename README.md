@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Surya Pratap Singh  </h1>
 <h3 align="center"> Computer Science Undergrad | Python Developer | Tech Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
----
+
 
 ### 📌 About Me
 - 🎓 B.Tech CSE, @ Dr. A.P.J. Abdul Kalam Technical University (AKTU)
