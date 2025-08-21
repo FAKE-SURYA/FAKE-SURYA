@@ -3,7 +3,7 @@
 <h3 align="center"> Computer Science Undergrad | Python Developer | Tech Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+ 
 ### 📌 About Me
 - 🎓 B.Tech CSE, @ Dr. A.P.J. Abdul Kalam Technical University (AKTU)
 - 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development
