@@ -31,6 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact" alt="FAKE-SURYA" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FAKE-SURYA&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat)
