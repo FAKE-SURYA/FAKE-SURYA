@@ -64,15 +64,12 @@
 </p>
 
 ---
-<h3 style="color:#cdd6f4;" align="center"> Stats:</h3>
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=dracula&hide_border=true&bg_color=eff1f5&color=4c4f69&title_color=8839ef&line=04a5e5&%0D%0Apoint=7287fd&area=true&area_color=04a5e5" />
-	  <img alt="github profile contributions Graph"    src="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
-	</picture>
-</p>
-
+<a href="https://github.com/FAKE-SURYA/github-readme-activity-graph">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
+</a>
 
 
 
@@ -81,6 +78,4 @@
 [![Apple Music](https://img.shields.io/badge/Listen_on-Apple_Music-black?style=for-the-badge&logo=applemusic&logoColor=red)](https://music.apple.com/in/playlist/aubrey/pl.u-MDAWklGs335zpL5)
 
  ![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
-
-
 
