@@ -1,11 +1,18 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center"> Hi, I'm Surya Pratap Singh  </h1>
-<h3 align="center"> Computer Science Undergrad | Python Developer | Tech Enthusiast </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center"><h1 align="center" style="color:#cdd6f4;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Surya Pratap Singh
 
- 
+</h1>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C4F69&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
+	  <img alt="Typing SVG"    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
+	</picture>
+</p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+
+	
 ### 📌 About Me
-- 🎓 B.Tech CSE, @ Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+- 🎓 B.Tech CSE
 - 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development
 - ♟️ Chess Nerd | 🎧 | 🏋 Passionate about fitness
 
@@ -25,17 +32,19 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FAKE-SURYA&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FAKE-SURYA&theme=tokyonight" />
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=475&&fire=E64553&hide_longest_streak=true" />
+	  <img alt="Github Streak"    src="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
+	</picture>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact" alt="FAKE-SURYA" /></p>
+<p> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact" alt="FAKE-SURYA" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FAKE-SURYA&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat)
 
