@@ -31,20 +31,25 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=475&&fire=E64553&hide_longest_streak=true" />
 	  <img alt="Github Streak"    src="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
-	</picture>
+	</picture><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif">
+
 </p>
 
-<p> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact" alt="FAKE-SURYA" />
-</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FAKE-SURYA&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact" alt="FAKE-SURYA" /> 
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FAKE-SURYA&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)   
+
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -59,11 +64,21 @@
 </p>
 
 ---
+<h3 style="color:#cdd6f4;" align="center"> Stats:</h3>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=dracula&hide_border=true&bg_color=eff1f5&color=4c4f69&title_color=8839ef&line=04a5e5&%0D%0Apoint=7287fd&area=true&area_color=04a5e5" />
+	  <img alt="github profile contributions Graph"    src="https://github-readme-activity-graph.vercel.app/graph?username=FAKE-SURYA&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
+	</picture>
+</p>
+
+
 
 
 ## 🎧 Listen with me
 
-[![Apple Music](https://img.shields.io/badge/Listen_on-Apple_Music-black?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/in/album/what-did-i-miss-single/1824600278)
+[![Apple Music](https://img.shields.io/badge/Listen_on-Apple_Music-black?style=for-the-badge&logo=applemusic&logoColor=red)](https://music.apple.com/in/album/what-did-i-miss-single/1824600278)
 
 
  ![snake gif](https://github.com/FAKE-SURYA/FAKE-SURYA/blob/output/github-snake-dark.svg)
