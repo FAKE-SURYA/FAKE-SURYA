@@ -87,6 +87,14 @@
 
 
 
+
+### ⏱️ This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 ## 🎧 Listen with me
 
 [![Apple Music](https://img.shields.io/badge/Listen_on-Apple_Music-black?style=for-the-badge&logo=applemusic&logoColor=red)](https://music.apple.com/in/playlist/aubrey/pl.u-MDAWklGs335zpL5)
