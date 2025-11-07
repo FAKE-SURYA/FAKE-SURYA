@@ -50,17 +50,21 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=FAKE-SURYA&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)   
 
 
-<P align="center">
+
   <img src="https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat" />
 	
  
+ 
   <a href="https://wakatime.com/@7c9d19f8-aec8-4743-8e07-6c813f2b2b3a">
     <img src="https://wakatime.com/badge/user/7c9d19f8-aec8-4743-8e07-6c813f2b2b3a.svg" />
-  </a>
+  </a>          
   
- 
-   <img src="https://img.shields.io/github/stars/FAKE-SURYA?label=Stars&color=yellow" />
-</P>
+
+
+
+  
+  <img src="https://img.shields.io/github/stars/FAKE-SURYA?label=Stars&color=yellow" />
+
 
 
 
