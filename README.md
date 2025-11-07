@@ -33,9 +33,9 @@
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=475&&fire=E64553&hide_longest_streak=true" />
-	  <img alt="Github Streak"    src="https://streak-stats.demolab.com?user=Ahmad-Mtr&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=FAKE-SURYA&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FAKE-SURYA&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=475&&fire=E64553&hide_longest_streak=true" />
+	  <img alt="Github Streak"    src="https://streak-stats.demolab.com?user=FAKE-SURYA&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
 	</picture><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69595691/193453676-3abfe557-1fc1-46d8-8075-3b17b9f54887.gif">
 
 </p>
