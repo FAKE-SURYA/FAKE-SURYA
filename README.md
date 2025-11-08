@@ -59,14 +59,15 @@
  
  
   <a href="https://wakatime.com/@7c9d19f8-aec8-4743-8e07-6c813f2b2b3a">
-    <img src="https://wakatime.com/badge/user/7c9d19f8-aec8-4743-8e07-6c813f2b2b3a.svg" />
+	  
+ <img src="https://wakatime.com/badge/user/7c9d19f8-aec8-4743-8e07-6c813f2b2b3a.svg" />
   </a>          
   
 
 
 
   
-  <img src="https://img.shields.io/github/stars/FAKE-SURYA?label=Stars&color=yellow" />
+  <img src="https://img.shields.io/github/stars/FAKE-SURYA?label=Stars&color=red" />
 
 
 
