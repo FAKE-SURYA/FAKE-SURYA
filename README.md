@@ -97,12 +97,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Total Time: 5 mins
+Total Time: 26 mins
 
-Python       3 mins          ███████████████▒░░░░░░░░░   61.49 %
-TypeScript   2 mins          █████████▓░░░░░░░░░░░░░░░   38.51 %
+C++          14 mins         █████████████░░░░░░░░░░░░   52.27 %
+Python       10 mins         ██████████░░░░░░░░░░░░░░░   39.94 %
+TypeScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
 ```
 
 <!--END_SECTION:waka-->
