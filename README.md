@@ -1,5 +1,4 @@
-<h1 align="center"><h1 align="center" style="color:#cdd6f4;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suryaaa <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVuZnJwZDJyZ3BuZ2JldTM0cDV3c3VheGFxc3o4Y3Bvd3BjNDdodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width= "70px"/>
-
+<h1 align="center"><h1 align="center" style="color:#cdd6f4;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suryaaa <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVuZnJwZDJyZ3BuZ2JldTM0cDV3c3VheGFxc3o4Y3Bvd3BjNDdodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif" width= "70px"/> <img src="https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat" />
 
 
 
@@ -52,17 +51,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=FAKE-SURYA&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)   
 
 
-
-  <img src="https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat" />
 	
  
- 
-  <a href="https://wakatime.com/@7c9d19f8-aec8-4743-8e07-6c813f2b2b3a">
-	  
- <img src="https://wakatime.com/badge/user/7c9d19f8-aec8-4743-8e07-6c813f2b2b3a.svg" />
-  </a>          
-  
-
 
 
   
