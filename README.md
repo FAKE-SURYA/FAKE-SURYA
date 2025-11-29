@@ -20,7 +20,7 @@
 	  <img alt="Typing SVG"    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
 	</picture>
 </p>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="Coding" width="270" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ### 📌 About Me
 - 🎓 B.Tech CSE
@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,fastapi,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,react,aws,git,github,flutter,nextjs,nodejs,mongodb,fastapi,docker&theme=dark" />
   </a>
 
 
