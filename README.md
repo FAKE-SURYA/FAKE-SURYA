@@ -44,7 +44,8 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact" alt="FAKE-SURYA" /> 
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&v=2" alt="FAKE-SURYA" />
+
 
 
 
