@@ -4,6 +4,7 @@
 
 
 </h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FAKE-SURYA&show_icons=true&locale=en&layout=compact&theme=dark" alt="FAKE-SURYA" /></p>
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&random=false&width=435&lines=A+passionate+CS+Student+from+India+" />
