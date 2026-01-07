@@ -104,11 +104,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
 Total Time: 0 secs
 
-C++   0 secs          █████████████████████████   100.00 %
+Other        1 min           ███████████████░░░░░░░░░░   59.77 %
+Markdown     0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.54 %
+JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+C++          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
