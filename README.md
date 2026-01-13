@@ -104,12 +104,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2026 - To: 11 January 2026
+From: 05 January 2026 - To: 12 January 2026
 
-Total Time: 48 mins
+Total Time: 49 mins
 
-Python       29 mins         ██████████████▓░░░░░░░░░░   58.65 %
-C++          18 mins         █████████▒░░░░░░░░░░░░░░░   37.09 %
+Python       29 mins         ██████████████▓░░░░░░░░░░   58.54 %
+C++          18 mins         █████████▒░░░░░░░░░░░░░░░   37.02 %
 Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
