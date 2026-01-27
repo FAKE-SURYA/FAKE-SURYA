@@ -103,12 +103,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 19 January 2026 - To: 26 January 2026
 
 Total Time: 43 mins
 
-Python   43 mins         ███████████████████░░░░░░   75.61 %
-Other    13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+Python   43 mins         █████████████████████████   99.63 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
