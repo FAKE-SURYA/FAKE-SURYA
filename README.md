@@ -2,7 +2,11 @@
 
   <img src="https://komarev.com/ghpvc/?username=FAKE-SURYA&label=Profile%20views&color=0e75b6&style=flat" /> 
 
-  ![](https://github-trophies.vercel.app/?username=FAKE-SURYA)
+![](https://github-trophies.vercel.app/?username=FAKE-SURYA&limit=6&column=6)
+
+
+
+
 
 
 </h1>
