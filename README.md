@@ -106,13 +106,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 6 mins
+Total Time: 8 mins
 
-Bash     3 mins                █████████████▓░░░░░░░░░░░   54.57 %
-Python   2 mins                ██████████▒░░░░░░░░░░░░░░   41.31 %
-Other    0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Python   4 mins                █████████████▓░░░░░░░░░░░   55.32 %
+Bash     3 mins                ██████████▒░░░░░░░░░░░░░░   41.54 %
+Other    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
