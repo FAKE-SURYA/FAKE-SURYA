@@ -20,7 +20,7 @@
 ### 📌 About Me
 - 🎓 B.Tech CSE
 - 🌩️ Currently learning Cloud Computing, Python, and Full Stack Development
-- ♟️ Chess Nerd | 🎧 | 🏋 Likes to lift weights
+- ♟️ Chess Nerd | 🎧 | 🏋 Like to Lift
 
 ---
 
